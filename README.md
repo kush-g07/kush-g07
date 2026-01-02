@@ -1,7 +1,7 @@
 # Hi there! I'm Kush Ghuwalewala 👋 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=First+Year+Student;Java+Developer+in+training;Future+AI+Engineer;Always+Exploring+Tech" alt="Typing SVG" />
 </p>
 
 ### 💫 About Me
