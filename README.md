@@ -6,7 +6,7 @@
 
 ### 💫 About Me
 - 🎓 **Education:** 2nd Year Student | Semester 3
-- ☕ **Current Grind:** Mastering **Java** and Object-Oriented Programming as well as "Python".
+- ☕ **Current Grind:** Mastering **Java** and Object-Oriented Programming as well as Python.
 - 🤖 **Future Vision:** Passionate about **Artificial Intelligence** and exploring how machines think.
 - 🌈 **Vibe:** Always exploring new domains and learning something new every day.
 
