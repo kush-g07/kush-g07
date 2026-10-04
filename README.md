@@ -1,7 +1,7 @@
 # Hi there! I'm Kush Ghuwalewala 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=First+Year+Student;Java+Developer+in+training;Future+AI+Engineer;Always+Exploring+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Second+Year+Student;Python+and+Java+Developer+in+training;Future+AI+Engineer;Always+Exploring+Tech" alt="Typing SVG" />
 </p>
 
 ### 💫 About Me
